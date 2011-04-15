@@ -56,6 +56,26 @@ hello world
 
 !SLIDE  commandline incremental smaller
 # how does it work? #
+<pre><code>mirahc -j -e 'puts "hello world"'
+Parsing...
+  &lt;inline script\&gt;
+Inferring types...
+Compiling...
+  DashE
+Done!
+</code>
+<code> ls *.java
+DashE.java	
+</code>	
+<code>cat DashE.java 
+// Generated from DashE
+public class DashE extends java.lang.Object {
+  public static void main(java.lang.String[] argv) {
+    java.io.PrintStream temp$1 = java.lang.System.out;
+    temp$1.println("hello world");
+  }
+}	
+</code>
 
 
 !SLIDE  commandline incremental smaller
