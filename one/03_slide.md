@@ -17,6 +17,27 @@
 * currently only java libraries are available, no native mirah standard library/syntactic sugar
 * language is still evolving
 * no IDE yet
+* most examples are porting java code, so without java knowledge porting is currently difficult, so not many examples
+* no books yet
+
+!SLIDE bullets incremental
+# I am working on #
+* building a syntactic sugar , mirah standard library , mirah package manager
+* crowdsourced book authoring
+* learning mirah
+* mirah jar builder library
+* https://github.com/rubygeeks/mirah_book
+* https://github.com/rubygeeks/learn_mirah
+
+!SLIDE bullets incremental
+# I am looking for #
+* summer interns to port few libraries and example
+* write innovative apps
+* volunteers to co-author mirah books, reviewers
+* add support for IDE(netbeans, eclipse, vim), hosting(github)
+* android app builders
+* web application builders
+* case studies
 
 !SLIDE bullets incremental
 # Mirah Resources#
@@ -29,7 +50,6 @@
 !SLIDE bullets small
 # Thanks / Q & A #
 * ![railsfactory](railsfactory_logo.gif)
-
 
 * www.railsfactory.com / senthil@railsfactory.org
 * linkedin.com/in/senthilnayagam

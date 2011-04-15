@@ -1,9 +1,23 @@
 !SLIDE bullets incremental
-# Why Mirah for Non-Java Programmers #
+# What Ruby currently Lacks #
+* need for a production web server apache/nginx
+* bigger memory footprint/GC issues
+* bridges are not the most effective ways for accessing other language libraries
+
+!SLIDE bullets incremental
+# Why I am excited about Mirah #
 
 * easiest way to use JVM goodness
-* enterprise acceptance
-* runtime is small
+execute my code on highly tuned and enterprise acceptable virtual machine
+* can use goodness of jconsole/jstack/jps
+* mirah execution performance is at par with code written in java
+
+!SLIDE bullets incremental
+# Why I am excited about Mirah #
+
+* bytecode size is equivalent to code written in java, and far smaller than jruby
+* mirah syntax is very similar to ruby and is often upto 50% lesser than a comparable java statement
+* both interpreter and compiler are available
 
 
 !SLIDE bullets 
