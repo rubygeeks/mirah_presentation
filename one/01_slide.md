@@ -2,6 +2,9 @@
 # Getting started with Mirah #
 ![mirah](mirah.png)
 
+
+
+
 !SLIDE bullets incremental
 # About Me #
 
