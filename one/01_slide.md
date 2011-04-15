@@ -7,7 +7,7 @@
 
 !SLIDE bullets incremental
 # About Me #
-
+* A.Senthil Nayagam
 * Co-Founder and CEO of RailsFactory
 * programmer at heart
 * curious
