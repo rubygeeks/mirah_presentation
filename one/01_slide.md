@@ -1,9 +1,27 @@
-!SLIDE 
-# My Presentation #
+!SLIDE center
+# Getting started with Mirah #
+![mirah](mirah.png)
 
 !SLIDE bullets incremental
-# Bullet Points #
+# About Me #
 
-* first point
-* second point
-* third point
+* Co-Founder and CEO of RailsFactory
+* programmer at heart
+* curious
+
+!SLIDE bullets incremental
+# Languages I am Learning #
+
+* erlang (running server) / reia
+* lua (mysqlproxy)
+* coffeescript / node.js 
+* c scripting (GWAN)
+* Mirah (JVM goodness)
+
+
+!SLIDE bullets 
+# Thanks & QnA #
+
+* senthil@railsfactory.org
+* @senthilnayagam
+* facebook.com/senthilnayagam
