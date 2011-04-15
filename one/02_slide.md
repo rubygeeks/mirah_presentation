@@ -14,7 +14,7 @@
 * [https://github.com/rubygeeks/mirah_book/](https://github.com/rubygeeks/mirah_book/)
 
 
-!SLIDE  commandline incremental smaller
+!SLIDE  commandline incremental
 
 # Mirah Installation #
 <pre><code> rvm use jruby # I have rvm installed
@@ -29,7 +29,7 @@ Mirah v0.0.7
 </code>	
 </pre>
 
-!SLIDE  commandline incremental smaller
+!SLIDE  commandline incremental 
 
 # Hello World #
 <pre><code> mirah -e 'puts "hello world"'
@@ -54,9 +54,9 @@ hello world
 </pre>	
 
 
-!SLIDE  commandline incremental smaller
+!SLIDE  commandline incremental 
 # how does it work? #
-<pre><code>mirahc -j -e 'puts "hello world"'
+<pre><code> mirahc -j -e 'puts "hello world"'
 Parsing...
   &lt;inline script\&gt;
 Inferring types...
@@ -67,16 +67,16 @@ Done!
 <code> ls *.java
 DashE.java	
 </code>	
-<code>cat DashE.java 
+<code> cat DashE.java 
 // Generated from DashE
 public class DashE extends java.lang.Object {
   public static void main(java.lang.String[] argv) {
-    java.io.PrintStream temp$1 = java.lang.System.out;
-    temp$1.println("hello world");
+   java.io.PrintStream temp$1 = java.lang.System.out;
+   temp$1.println("hello world");
   }
 }	
 </code>
-
+</pre>
 
 !SLIDE  commandline incremental smaller
 
