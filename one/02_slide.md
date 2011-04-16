@@ -7,10 +7,11 @@
 !SLIDE bullets incremental
 # Why I am excited about Mirah #
 
-* easiest way to use JVM goodness
-execute my code on highly tuned and enterprise acceptable virtual machine
+* easiest way to use JVM goodness 
+* execute my code on highly tuned and enterprise acceptable virtual machine
 * can use goodness of jconsole/jstack/jps
 * mirah execution performance is at par with code written in java
+* beautiful code
 
 !SLIDE bullets incremental
 # Why I am excited about Mirah #
@@ -18,15 +19,8 @@ execute my code on highly tuned and enterprise acceptable virtual machine
 * bytecode size is equivalent to code written in java, and far smaller than jruby
 * mirah syntax is very similar to ruby and is often upto 50% lesser than a comparable java statement
 * both interpreter and compiler are available
-
-
-!SLIDE bullets 
-# Mirah Learning Resources  #
-
-* [http://www.mirah.org/](http://www.mirah.org/)
-* [http://groups.google.com/group/mirah](http://groups.google.com/group/mirah)
-* [https://github.com/rubygeeks/mirah_book/](https://github.com/rubygeeks/mirah_book/)
-
+* No language-imposed runtime library
+* Extensible Language
 
 !SLIDE  commandline incremental
 
@@ -124,7 +118,7 @@ hello Senthil</code></pre>
 !SLIDE  commandline
 # class #
 <pre><code> cat foo.mirah
-	class Foo
+class Foo
   def initialize
     puts 'constructor'
     @hello = 'Hello, '

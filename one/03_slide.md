@@ -11,7 +11,7 @@
 * utilities
 
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 # Where Mirah lacks #
 
 * currently only java libraries are available, no native mirah standard library/syntactic sugar
@@ -29,7 +29,7 @@
 * https://github.com/rubygeeks/mirah_book
 * https://github.com/rubygeeks/learn_mirah
 
-!SLIDE bullets incremental
+!SLIDE bullets incremental small
 # I am looking for #
 * summer interns to port few libraries and example
 * write innovative apps

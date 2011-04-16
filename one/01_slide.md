@@ -10,7 +10,7 @@
 * A.Senthil Nayagam
 * Co-Founder and CEO of RailsFactory
 * programmer at heart
-* curious
+* I don't know Java programming
 
 !SLIDE bullets incremental
 # Languages I am Learning #
