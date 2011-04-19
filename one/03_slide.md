@@ -1,5 +1,5 @@
 !SLIDE bullets incremental
-# Mirah popular libraries #
+# Mirah Sweet Spot #
 
 * DSL
 * dubious 
